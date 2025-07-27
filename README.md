@@ -18,7 +18,7 @@ DAP config and breadcrumbs have not been included because I never used those fea
 
 ## Usage
 
-The following files are used for the following purposes. Pick and choose as needed:
+The following files are used for the following purposes. Pick and choose as needed, or just decompress the whole `nvim` folder into `~/.config/nvim` (or whatever the windows equivalent is) if you're feeling adventurous:
 
 - **init.lua:** initialized lazy and telescope configs, as well as my own personal keybinds and the lunarvim keybinds I actually had use for. Also configures some modules that don't play nicely with lazy.nvim
 - **lua/plugins/lunarvim.lua:** Loads and configures most lunarvim-specific plugins that don't require extensive configurations
