@@ -4,7 +4,7 @@ Config files based on LunarVim, but without hard dependencies on specific versio
 
 ## Purpose
 
-I have been using LunarVim as my neovim distribution for a long time now. It has relatively sane defaults and is reasonably easy to configure. However, its development has been discontinued for a while, and I am running into issues using LSPs without error messages. As such, I have ported the important (in my opinion) parts of the distrubution to regular neovim config files.
+I have been using LunarVim as my neovim distribution for a long time now. It has relatively sane defaults and is reasonably easy to configure. However, its development has been discontinued for a while, and I am running into issues using LSPs without error messages. As such, I have created a set of neovim config files to implement the important (in my opinion) parts of the distrubution. These are all written from scratch or adapted from examples from plugin documentation, no lunarvim code has been directly copied.
 
 ## Limitations
 
