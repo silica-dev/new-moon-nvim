@@ -49,13 +49,13 @@ local nvim_tree = {
             },
             glyphs = {
                 git = {
-                    unstaged = "U",
+                    unstaged = "",
                     staged = "S",
-                    unmerged = "UM",
+                    unmerged = "",
                     renamed = "R",
-                    deleted = "D",
-                    untracked = "X",
-                    ignored = "I",
+                    deleted = "",
+                    untracked = "U",
+                    ignored = "◌",
                 },
             },
         },
