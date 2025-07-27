@@ -10,6 +10,12 @@ I have been using LunarVim as my neovim distribution for a long time now. It has
 
 DAP config and breadcrumbs have not been included because I never used those features. I have also edited the lualine bar and bufferline to my liking, mostly because i don't know how exactly to replicate the original config. However, the general design ethos has been maintained. My purpose with this project was to port my own config primarily; replicating lunarvim in general is secondary.
 
+## Preview
+The background is from my terminal being transparent, you won't get a cringe background just for installing this config.
+![alpha dashboard preview](https://github.com/Silicasandwhich/new-moon-nvim/blob/0da0262ec9b98bfd8174e4e24e5a267e7a096fdb/preview/dash.png)
+![diagnostics preview](https://github.com/Silicasandwhich/new-moon-nvim/blob/0da0262ec9b98bfd8174e4e24e5a267e7a096fdb/preview/diagnostic.png)
+![completoin preview](https://github.com/Silicasandwhich/new-moon-nvim/blob/0da0262ec9b98bfd8174e4e24e5a267e7a096fdb/preview/completion.png)
+
 ## Dependencies
 
 - Latest neovim
