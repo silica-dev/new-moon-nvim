@@ -12,9 +12,9 @@ DAP config and breadcrumbs have not been included because I never used those fea
 
 ## Preview
 The background is from my terminal being transparent, you won't get a cringe background just for installing this config.
-![alpha dashboard preview](https://github.com/Silicasandwhich/new-moon-nvim/blob/0da0262ec9b98bfd8174e4e24e5a267e7a096fdb/preview/dash.png)
-![diagnostics preview](https://github.com/Silicasandwhich/new-moon-nvim/blob/0da0262ec9b98bfd8174e4e24e5a267e7a096fdb/preview/diagnostic.png)
-![completoin preview](https://github.com/Silicasandwhich/new-moon-nvim/blob/0da0262ec9b98bfd8174e4e24e5a267e7a096fdb/preview/completion.png)
+![alpha dashboard preview](https://github.com/silica-dev/new-moon-nvim/blob/0da0262ec9b98bfd8174e4e24e5a267e7a096fdb/preview/dash.png)
+![diagnostics preview](https://github.com/silica-dev/new-moon-nvim/blob/0da0262ec9b98bfd8174e4e24e5a267e7a096fdb/preview/diagnostic.png)
+![completoin preview](https://github.com/silica-dev/new-moon-nvim/blob/0da0262ec9b98bfd8174e4e24e5a267e7a096fdb/preview/completion.png)
 
 ## Dependencies
 
